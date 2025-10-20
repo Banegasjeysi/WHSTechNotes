@@ -31,3 +31,11 @@ Create a colorful, engaging slide deck that teaches 4th graders about the Solar 
 
  Reflection
 My prompt was designed to help Canva AI create an interactive slide deck that introduces 4th graders to the Solar System in a fun and engaging way. I specified the audience, the format (slide deck), and the style (colorful, kid-friendly, interactive). Canva AI understood my instructions and generated slides for each planet, using bright colors and simple language. The inclusion of fun facts and interactive questions made the content more engaging for young learners. The images and icons for each planet worked well and made the slides visually appealing. However, some of the interactive elements were less creative than I hoped, and a few slides needed more variety in layout. To improve my prompt, I could give more specific examples of interactive activities or request different slide layouts for each planet. Being good at prompt engineering is valuable because it helps people communicate clearly with AI tools, making it easier to create effective educational materials, solve problems, and stand out in tech-related careers where AI is becoming more important.
+
+# October 20, 2025
+
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin |second |91A   |
+| Hardeep  | Third |61F   |
+| Marla    |First  |35B   |
