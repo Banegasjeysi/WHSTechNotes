@@ -39,3 +39,11 @@ My prompt was designed to help Canva AI create an interactive slide deck that in
 | Franklin |second |91A   |
 | Hardeep  | Third |61F   |
 | Marla    |First  |35B   |
+
+# October 27, 2025
+
+| Name    | Main Dish       | Dessertc          |
+| :---    |    :----:       |         ---:      |
+| Fiona   | Gado Gado       | Creme Brulee      |
+| Tobias  | Shrimp Ceviche  |	French Apple Cake |
+| Leanne  | 	Beef Wellington| Raspberry Tiramisu|
