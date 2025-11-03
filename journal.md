@@ -47,3 +47,6 @@ My prompt was designed to help Canva AI create an interactive slide deck that in
 | Fiona   | Gado Gado       | Creme Brulee      |
 | Tobias  | Shrimp Ceviche  |	French Apple Cake |
 | Leanne  | 	Beef Wellington| Raspberry Tiramisu|
+
+# November 3, 2025 
+When the SNAP program runs out of funding, millions of families lose access to the financial support they rely on to buy groceries. This is a major problem because it directly affects low-income households, children, and seniors who depend on SNAP to afford nutritious meals. Without it, food insecurity increases, and many people may go hungry or be forced to choose cheaper, less healthy options. Technology could help by creating apps or websites that connect people to nearby food banks, community kitchens, or local stores offering discounts and free meals. However, challenges include limited internet access, lack of smartphones, and concerns about sharing personal information online. If designing a solution, a tool called “FoodLink” could be created to map nearby food resources, send real-time alerts about available meals, and allow users to request help anonymously. This would make it easier for people to find food quickly and safely during funding disruptions.
