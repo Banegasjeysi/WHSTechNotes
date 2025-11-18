@@ -22,6 +22,20 @@ The phrase "6,7" likely signifies a secret code or inside joke among students. I
 # October 06, 2025
 If I were in charge of my school, I would implement polices that allow students to use cell phones and chromebooks for educational purposes, such as research and learning apps, but restrict their use during lessons to minimize distractions. AI tools like ChatGPT would be permitted for homework help and projects, encouraging responsible use. Non educational games would be blocked, but learning games would be allowed. This would help students focus better and use technology to learn. It would also teach students how to use tech responsibly. These rules would foster a focused learning environment, enhance engagement with educational content, and develop responsible technology habits among students.
 
+# October 14, 2025
+Part 1:
+Prompt: Create an interactive slide deck that teaches middle school students (grades 6–8) about Newton’s Three Laws of Motion. The slides should be colorful, engaging, and easy to understand, using simple language and visual examples like animations or illustrations of real-world scenarios (a skateboarder, a soccer ball, or a rocket).
+
+Include:
+A title slide with the topic and a fun science-themed background.
+One slide for each of Newton’s three laws, with a short explanation and a visual example.
+An interactive quiz slide at the end with multiple-choice questions to test understanding.
+A summary slide that reviews all three laws in a clear, memorable way.
+Use a bright, modern design style with icons, motion graphics, and bold headings to keep students interested.
+
+Part 2: Reflection
+My prompt was designed to help Canva AI create an interactive and visually appealing lesson about Newton’s Three Laws of Motion for middle school students. AI understood the structure well and built a slide deck that included clear sections for each law, along with visuals that matched the examples I described. The colorful layout and quiz feature worked especially well to make the content engaging. However, some of the text explanations were too advanced for the target age group, and the quiz questions could have been more interactive. To improve my prompt, I would specify the reading level and request simpler phrasing and more dynamic quiz options. Being skilled at prompt engineering is valuable because it helps professionals communicate clearly with AI tools, saving time and producing more effective, creative results in education and other industries.
+
 # October 15, 2025
 Topic: The Solar System
 Audience: 4th grade students
