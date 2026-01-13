@@ -78,3 +78,6 @@ Winter break is one of the most anticipated times of the year, offering a chance
 
 # January 06, 2026
 During the winter break, I utilized technology in various ways to stay connected, entertained, and informed. I spent amount of time using my phone to communicate with my friends and my family through social media and messaging apps, sharing updates and holiday greetings.   
+
+ # January 12, 2026
+ Autcraft was created to provide a safe, welcoming online space for autistic children and their families who were often bullied or excluded inregular online games.It solved the problem of harassment and lack of moderation by using clear rules, active moderators, and a supportive community culture. Safe spaces are needed on the internet because unmoderated spaces can lead to bullying, hate speech, emotional harm, and people feeling unsafe or unwelcome. Autcraft's design choices, such as strict rules and constant moderation, help protect players and allow them to be themselves without fear. Developer have a responsibility to create and protect these spaces because users should not have to defend themselves alone. If developers ignore safety and inclusion, communities can become toxic and drive people away. Other examples of safe online spaces include moderated Discord servers and child friendly platforms with strong safety rules. 
