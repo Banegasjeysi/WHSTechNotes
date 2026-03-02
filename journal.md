@@ -97,3 +97,25 @@ I dont really enjoy football because I find the games too long and im not very i
 # February 23, 2026
 At the 2026 Winter Olympics, one of the most important technologies was high speed timing systems. These systems were used in events like speed skating, alpine skiing, and snowboarding to measure athetes' times down to thoudsandths of a second. In races where competitors finish almost at the same time, even the smallest difference can decide who wins a medal. The timing technology uses sensors and cameras at the start and finish lines to record exact results instantly. 
 This had a huge impact on fairness because it removed human error and mde the results more accurate and trustworthy. Athletes train for years, so it is important that winners are decided by precise measurements rather than guesses. Overall. high speed timing systems improved the Olympics by making competitions more fair, competitive, and reliable.
+
+# March 2, 2026
+Job #1:
+Company:USAA
+Job Title:Software Engineer
+Education Required:Bachelor's degree in Computer Science, Software Engineering, or related field
+Experience Required:2+ years of programming experience (entry-level may require internships or projects)
+Skills / Tools / Languages:Java, Python, SQL, Git, Agile methology, problem-solving skills
+Certifications (if any):Not always requirebut AWS or other cloud certifications are a plus
+What the job does (1–2 sentences):Develops and maintains software applications, writes code, tests programs, and worksd with teams to improve digtal banking systems and services. 
+
+Job #2
+Company:Rackspace Technology 
+Job Title:Cloud Engineer 
+Education Required:Bachelor's degree in Information Technology, Computer Science, or related field
+Experience Required:2-4 years of experience working with cloud platforms 
+Skills / Tools / Languages:AWS, Microsoft Azure, Linux, networking, scripting(Python or Bash), troubleshooting 
+Certifications (if any):AWS Certified Solutions Architect or similar cloud certification preferred
+What the job does (1–2 sentences):Manages cloud systems, helps companies migrate to the cloud, monitors performance, and ensures systems are secure and reliable.
+
+Part C — C.E.R. Paragraph (5–8 sentences)
+I would prefer Software Engineer position at USAA because I enjoy coding and creating new twchnology solutions. This job requires bachelor's degree in computer science and experience with programming languages like Java and Python. It also values problem-solving  skills and teamwork in an Agile environment. These rquirements connect to me bacause I am Interested in learning how to code and improving my technical skils. I also like the idea of building software that helps people manage their finaces safely. Becoming a software engineer would allow me to grow in a high-demand field while working meaningful projects.  
