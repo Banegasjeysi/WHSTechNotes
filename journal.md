@@ -119,3 +119,10 @@ What the job does (1–2 sentences):Manages cloud systems, helps companies migra
 
 Part C — C.E.R. Paragraph (5–8 sentences)
 I would prefer Software Engineer position at USAA because I enjoy coding and creating new twchnology solutions. This job requires bachelor's degree in computer science and experience with programming languages like Java and Python. It also values problem-solving  skills and teamwork in an Agile environment. These rquirements connect to me bacause I am Interested in learning how to code and improving my technical skils. I also like the idea of building software that helps people manage their finaces safely. Becoming a software engineer would allow me to grow in a high-demand field while working meaningful projects.  
+
+# mARCH 23, 2026
+1. I chose my bracket mostly based on ranking and a little guessing. So far, it's doing okay but not perfect because of some upsets.
+2. Some lower-seeded teams winning surprised me because they were expected to lose, but they played better than expected.
+3. Using data like stats and rankings can help make smarter predictions instead of just guessing.
+4. A computer program can anlyze a lot of data quickly and find pattenrs, so it can make more accurate predictions than a person.
+5. Jobs that use sports data include data analyst, sports statistician, and software developer.  
