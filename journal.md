@@ -191,6 +191,11 @@ I used AI to assist with this entry
 
 Technology has transformed the way fans experience live sports by shifting the primary medium of consumption from traditional cable to interactive digital streaming.This week, I watched the NBA Playoffs throught a mobile app that provided real-time statistics, multiple camara angles, and instant highlight clips at my fingertips. This amtters because it grants viewers total control over their experience, allowing them to engage with the game from anywhere. Ultimately, technology has turned passive sports viewing into an interactive personalized activity that bridges the gap between the athlete and the fan.
 
+# May 6, 2026
+I never thought about how much people help train AI just by using apps every day. When I'm on TikTok, Instagram, Google, or even ChatGPT, the things a search, like, or click on can give companies information about what I'm interested in. For example, if I keep watching certain videos or liking certain posts, the app starts showing me more of the same stuff because it learns what catches my attention. Even those "I'm not a robot" tests or picking pictures of traffic lighs can help AI learn how to recognize images better. That made me think about that people are not only using technology, but also helping improve it without knowing it. After learning this, I think more about how much information I give online or how much information I share with different people and how companies use it to make AI smarter.
+
+
+
 # May 11, 2026
 This school year changed me a lot, in a lot of different ways. I grew alot in my responsabilities and school habits. I grew up in Honduras and seeing how hard my mom worked helped me mature, focus more on my future and in my personal things. At the beggining of the year, I did not really care about school and I got distracted easily. Over time I became distantnt from certain people that was doing bad in my life, I lost all my friendships, but It helped me realize who I wanted to become. I also started reading more, and that helped me a lot with my mental health. One example of my growth is how I now put my schoolwork and grades before distractions. Compared to the beggining of the year, I'm more focused, responsible, and motivated to succeed and be better for myself and for my mom who's the main reason why I'm trying to be better in life. 
 
